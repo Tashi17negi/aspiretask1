@@ -7,12 +7,11 @@ The goal of this project is to build a model that can accurately classify fraudu
 Table of Contents
 Introduction
 Dataset
-Installation
 Usage
 Model Training and Evaluation
 Results
-Contributing
-License
+
+
 Introduction
 Credit card fraud is a significant problem in the financial industry. Detecting fraudulent transactions quickly and accurately is crucial to minimizing financial losses. 
 This project leverages machine learning algorithms to identify patterns in transaction data that may indicate fraud.
